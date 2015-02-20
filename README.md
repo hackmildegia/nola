@@ -1,0 +1,2 @@
+# nola
+Proiektuak pausuz-pausu.
